@@ -1,1 +1,1 @@
-## wealthy-beast.surge.sh
+### [live](https://wealthy-beast.surge.sh)
